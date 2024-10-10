@@ -7,7 +7,7 @@ public class Main{
 	static ArrayList<Integer>v=new ArrayList<>();
 	static boolean b;
 	static int a=2,z;
-	static File file=new File("C:\\Users\\szczur4\\Desktop\\primes.txt");
+	static File file=new File("C:\\Users\\<USER>\\Desktop\\primes.txt");
 	static BufferedWriter writer;
 	public static void main(String[] args)throws Exception{
 		file.createNewFile();
